@@ -1,1 +1,7 @@
-
+c = 40
+def D():
+    print(c)
+    A = 10
+    print(A)
+D()
+print(c)
